@@ -14,7 +14,7 @@
   <path d="M0 60 H420 L480 20 H720 L780 60 H1200"
         stroke="url(#divider-cyber-a)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
         stroke-dasharray="180 1600">
-    <animate attributeName="stroke-dashoffset" values="1780;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1780;0" dur="6s" repeatCount="indefinite"/>
   </path>
 
  
